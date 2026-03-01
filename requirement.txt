@@ -1,0 +1,12 @@
+spacy>=3.5
+pandas>=2.0
+numpy>=1.25
+PyMuPDF>=1.22
+python-docx>=0.8.11
+antiword>=0.37
+transformers>=4.35
+torch>=2.1
+openai>=1.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+tqdm>=4.65
