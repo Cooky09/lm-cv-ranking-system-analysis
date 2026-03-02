@@ -17,5 +17,5 @@
 - FitZ (PyMuPDF) for PDF reading
 - Antiword for DOC files
 
-## 📁 Project Structure
+
 
